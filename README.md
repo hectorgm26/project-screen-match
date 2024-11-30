@@ -181,7 +181,7 @@ Representa un episodio de una serie, incluyendo título, temporada, número de e
 Spring Data JPA gestiona la persistencia mediante **repositorios**, como `SerieRepository`, que proporciona métodos personalizados para consultas como `findTop5ByOrderByEvaluacionDesc()`.
 
 ## Autor
-Desarrollado por [Tu Nombre] como parte de un curso de Alura.
+Desarrollado por mi, Héctor Andrés González Mora, como parte de un curso de Alura.
 
 ## Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
